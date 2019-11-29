@@ -8,4 +8,4 @@ Liste des taches
 ---------- | ---------------- | ---------- | --------------:
 100 %  | Cahier charges | 08/11/2019 | Etablir le cahier des charges du modules externes 
 70 %   | Diagramme de Gant | 29/11/2019 | Planification des tâches 
-.. %   | ............ | ../../.... | ......................................
+10 %   |cablage FTDI232 et ESP32| 29/11/2019 | 
