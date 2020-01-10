@@ -11,3 +11,5 @@ Liste des taches
 10 %   | Recherche | 25/11/2019 | Recherche sur le ESP3266 + Ecran LCD SSD1306
 100 %   |cablage FTDI232 et ESP32| 29/11/2019 | cablâge des modules pour compilation 
 50 %   |configuration de l'écran LCD| 29/11/2019 | code de test pour afficher des caractères à l'écran
+50 %   | Recherche | 13/12/2019 | Recherche sur le ESP3266 + Ecran LCD SSD1306
+80 %   |configuration de l'écran LCD| 13/12/2019 | L'écran s'allume mais probleme de calibrage
