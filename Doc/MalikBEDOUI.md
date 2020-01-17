@@ -12,3 +12,4 @@ Liste des taches
 50 %   |configuration de la balance| 29/11/2019 | code de test pour récupérer les valeurs depuis le module NAU7802
 50%    |Configuration de la balance| 13/12/2019 | problème de compilation sur l'esp ce qui nous a retardé
 60%    |Configuration de la balance| 10/01/2020 | détermination de l'équation permettant d'avoir une valeur correspondant à un poid en kg.
+70%    |Configuration de la balance| 17/01/2020 | autocalibration de la balance sans intervention de l'utilisateur.
