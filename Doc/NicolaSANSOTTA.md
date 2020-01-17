@@ -11,7 +11,7 @@ Liste des taches
 100 %  |cablage FTDI232 et ESP32| 29/11/2019 | cablâge des modules pour compilation 
 50 %   |configuration de la balance| 29/11/2019 | code de test pour récupérer les valeurs depuis le module NAU7802
 100 %  |configuration de la balance| 13/12/2019 | code de test pour récupérer les valeurs depuis le module NAU7802
-       |configuration de la balance| 13/12/2019 | Probléme de compilation depuis la plateforme Arduino vers l'ESP3266
+0%     |configuration de la balance| 13/12/2019 | Probléme de compilation depuis la plateforme Arduino vers l'ESP3266
 25 %   |configuration de la balance| 13/12/2019 | Convertions des valeurs en unité de masse
 75 %   |configuration de la balance| 10/01/2020 | Convertions des valeurs en unité de masse
 5 %    |Implémentation de la carte| 10/01/2020 | Cablage NAU7802 seul
