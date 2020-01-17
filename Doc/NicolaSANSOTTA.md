@@ -15,3 +15,4 @@ Liste des taches
 25 %   |configuration de la balance| 13/12/2019 | Convertions des valeurs en unité de masse
 75 %   |configuration de la balance| 10/01/2020 | Convertions des valeurs en unité de masse
 5 %    |Implémentation de la carte| 10/01/2020 | Cablage NAU7802 seul
+60 %    |Implémentation de la carte| 11/01/2020 | Cablage des 2NAU7802 et installations des différents connecteurs
