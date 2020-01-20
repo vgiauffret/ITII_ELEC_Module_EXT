@@ -16,3 +16,8 @@ Liste des taches
 100 %  |Reinstallation du noyau Linux| 17/01/2020 | Probleme d'ecran apres mauvaise manipulation
 70 %   |Recherche | 17/01/2020 | Recherche sur le ESP3266 + Ecran LCD SSD1306
 100 %  |Configuration de l'écran LCD| 17/01/2020 | L'écran s'allume est on peut afficher differentes chaines de caracteres
+100 %  |Mesure Batterie et Alimentation | 20/01/2020 | Pont diviseur pour la mesure de la batterie et de l'alimentation
+100 %  |LED Red & Green | 20/01/2020 | Ajout des deux LED et code pour les alimenter
+100 %   |Recherche | 17/01/2020 | Recherche sur le ESP3266 + Ecran LCD SSD1306
+50 %   |Configuration de l'écran LCD| 20/01/2020 | Modification de l'I2C pour le controler
+ 
