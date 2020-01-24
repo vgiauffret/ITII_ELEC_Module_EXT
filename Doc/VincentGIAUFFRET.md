@@ -18,6 +18,10 @@ Liste des taches
 100 %  |Configuration de l'écran LCD| 17/01/2020 | L'écran s'allume est on peut afficher differentes chaines de caracteres
 100 %  |Mesure Batterie et Alimentation | 20/01/2020 | Pont diviseur pour la mesure de la batterie et de l'alimentation
 100 %  |LED Red & Green | 20/01/2020 | Ajout des deux LED et code pour les alimenter
-100 %   |Recherche | 17/01/2020 | Recherche sur le ESP3266 + Ecran LCD SSD1306
+100 %  |Recherche | 17/01/2020 | Recherche sur le ESP3266 + Ecran LCD SSD1306
 50 %   |Configuration de l'écran LCD| 20/01/2020 | Modification de l'I2C pour le controler
+100 %  |Configuration du module LoRa| 24/01/2020 | Envoyer un message et lire les messages recu
+100 %  |Configuration de l'écran LCD| 24/01/2020 | Modification de l'I2C pour le controler
+100 %  |Configuration de la photoresistance| 24/01/2020 | Lire la valeur de la luminosité
+
  
