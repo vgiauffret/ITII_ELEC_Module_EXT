@@ -13,3 +13,6 @@ Liste des taches
 50%    |Configuration de la balance| 13/12/2019 | problème de compilation sur l'esp ce qui nous a retardé
 60%    |Configuration de la balance| 10/01/2020 | détermination de l'équation permettant d'avoir une valeur correspondant à un poid en kg.
 70%    |Configuration de la balance| 17/01/2020 | autocalibration de la balance sans intervention de l'utilisateur.
+70%    |Configuration de la balance| 20/01/2020 | Travail sur balance + cablage module lora.
+70%    |Configuration de la balance + Lora| 17/01/2020 | autocalibration de la balance sans intervention de l'utilisateur.
+70%    |Module Lora| 17/01/2020 | Envoi et reception de message avec Lora et affichage des bytes reçues sur LCD
