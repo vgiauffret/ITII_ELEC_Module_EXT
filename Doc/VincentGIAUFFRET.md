@@ -23,5 +23,6 @@ Liste des taches
 100 %  |Configuration du module LoRa| 24/01/2020 | Envoyer un message et lire les messages recu
 100 %  |Configuration de l'écran LCD| 24/01/2020 | Modification de l'I2C pour le controler
 100 %  |Configuration de la photoresistance| 24/01/2020 | Lire la valeur de la luminosité
+100 %  |Présentation | 07/02/2020 | Powerpoint de présentation
 
  
