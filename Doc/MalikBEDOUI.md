@@ -16,3 +16,4 @@ Liste des taches
 70%    |Configuration de la balance| 20/01/2020 | Travail sur balance + cablage module lora.
 70%    |Configuration de la balance + Lora| 17/01/2020 | autocalibration de la balance sans intervention de l'utilisateur.
 70%    |Module Lora| 17/01/2020 | Envoi et reception de message avec Lora et affichage des bytes reçues sur LCD
+100%    |Présentation module externe| 08/02/2020 | 
