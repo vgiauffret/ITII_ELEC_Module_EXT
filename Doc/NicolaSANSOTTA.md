@@ -21,3 +21,4 @@ Liste des taches
 55 %    |Implémentation de la carte| 20/01/2020 | Atribution des pins utilisée sur L'ESP32
 65 %    |Implémentation de la carte| 24/01/2020 | Cablage du capteur de température DHT et de la LDR
 0 %    |Implémentation de la carte| 24/01/2020 | Changement tension d'entrée du pont diviseur pour messurer la baterie
+100 %    |Présentation module externe| 08/02/2020 | 
