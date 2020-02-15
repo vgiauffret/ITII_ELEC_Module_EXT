@@ -24,5 +24,9 @@ Liste des taches
 100 %  |Configuration de l'écran LCD| 24/01/2020 | Modification de l'I2C pour le controler
 100 %  |Configuration de la photoresistance| 24/01/2020 | Lire la valeur de la luminosité
 100 %  |Présentation | 07/02/2020 | Powerpoint de présentation
+100 %  |Présentation | 08/02/2020 | Présentation
+100 %  |Assemblage Code | 14/02/2020 | Réveil du systéme avec appuie sur le bouton next
+70 %   |Assemblage Code | 14/02/2020 | Défilement du menu avec le bouton next
+50 %   |Assemblage Code | 14/02/2020 | Ajout du bouton validation
 
  
