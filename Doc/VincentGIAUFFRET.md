@@ -28,5 +28,6 @@ Liste des taches
 100 %  |Assemblage Code | 14/02/2020 | Réveil du systéme avec appuie sur le bouton next
 70 %   |Assemblage Code | 14/02/2020 | Défilement du menu avec le bouton next
 50 %   |Assemblage Code | 14/02/2020 | Ajout du bouton validation
-
+100 %   |Test Eeprom Code | 17/04/2020 | Ecrire et lire dans l'eeprom
+30 %   |Balance Code | 17/04/2020 | Proceder au mesure de poids
  
