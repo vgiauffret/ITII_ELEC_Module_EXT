@@ -25,4 +25,4 @@ modification    |Implémentation de la carte| 24/01/2020 | Changement de pin con
 100 %    |Implémentation de la carte| 14/02/2020 | Finalisation des différents câblage sur le schematic
 20 %    |Routgae PCB| 20/03/2020 | Début du routage de la carte module externe ESP_Rucher
 100 %    |Routgae PCB| 17/04/2020 | Finalisation de la carte module externe ESP_Rucher
-60 %    |Recherche Composants| 17/04/2020 | Choix et comparaisons des compossants chez Farnell et RS
+60 %    |Recherche Composants| 22/04/2020 | Choix et comparaisons des compossants chez Farnell et RS
