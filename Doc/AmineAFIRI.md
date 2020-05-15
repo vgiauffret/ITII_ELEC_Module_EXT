@@ -19,9 +19,9 @@ Liste des taches
 100 %  |Recherche| 20/01/2020 | Lecture de la Datasheet de du capteur de température DHT22
 100 %  |cablage| 20/01/2020 | cablâge du capteur DHT22 pour test 
 10 %   |Codage| 20/01/2020 | Elaboration d'un programme qui récupère les données du capteur DHT22
-100 %  |Absence| 24/01/2020 | Injustifié (Pour raison personnelle)
-100 %  |Absence| 07/02/2020 | Maladie
-100 %  |Absence| 08/02/2020 | Maladie
+0 %  |Absence| 24/01/2020 | Injustifié (Pour raison personnelle)
+0 %  |Absence| 07/02/2020 | Maladie
+0 %  |Absence| 08/02/2020 | Maladie
 100 %  |Codage| 14/02/2020 | Mise en marche d'un programme qui récupère les données du capteur DHT22
 70 %  |Configuration de la balance| 14/02/2020 | Autocalibration de la balance sans intervention de l'utilisateur
 70 %  |Configuration de la balance| 20/03/2020 | Autocalibration de la balance sans intervention de l'utilisateur
